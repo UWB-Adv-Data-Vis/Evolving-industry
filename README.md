@@ -42,13 +42,34 @@ We hope to learn, through this project, what industries have the best future pro
 
 ## Tasks to address for our challenge
 
-The dashboard _could_ function visuals:
+The dashboard _could_ include visuals for the following function:
 - Show the change over time in regards to wages and overall employment in these three sectors.
 - Compare these occupations and sectors against each other by year.
 - Correlate wages with employee growth/decline over the years.
 - Relate wage and employment for comparing industries across years.
 - Determine consistency, growth and decline with both occupations and sectors.
 - Create a dashboard compiling all plots together.
+
+## Targeted Questions for Visual Analytics
+The dashboard _could_ answer these key questions through visuals:
+
+ 1.	What are the entry age groups for different occupations?
+ 2.	Peak years for occupations? Peak being defined as salary earned to hours worked
+ 3.	Retirement years for occupations?
+ 4.	Unemployment by occupation and unemployment?
+ 6.	Is gen-z screwed with their employment opportunities in the current job market?
+ 7.	Which generation(s) are projected to never retire?
+ 8.	How do these changes affect different social identities (e.g. race, ethnicity, gender)?
+
+## Design Principles:
+ - Simplify: Keep it simple but informative: focus on 1-2 strong visualizations per person.
+ - Easy: Leverage the use of easy to use tabs and menus to support mobile devices.
+ - Clean: Clear labels, details-demand, and notes for more information
+ - Coherent: Same color scheme across all panels
+ - Flexible: Works on different screen sizes including desktops, phones, tablets, and laptops.
+ - Understandable: Follow ggplot2 best practices
+ - **_Please replace this README with one for your produced dashboard and include a link to the original challenge._**
+
 
 # The Data
 ## Background 
