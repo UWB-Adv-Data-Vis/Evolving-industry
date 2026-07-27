@@ -28,7 +28,7 @@ The goal here is to create some awareness for job seekers interested in the indu
 
 ## Data Challenge Statement
 
-This challenge asks teams to turn complex industry data into a clear, easy-to-use dashboard using R Shiny and ggplot2. We intend the dashboards to be accessible and understandable to the general public, prioritizing creative layouts, clear labeling, and clear data storytelling so that it enables non-technical users to engage with the visualizations meaningfully. By making the dashboard easily accessible to the public, it will provide a good reference for students or any public stakeholders trying to understand the trends of industry sectors. 
+This challenge asks teams to turn complex industry data into a clear, easy-to-use dashboard using R Shiny and ggplot2. We intend the dashboards to be accessible and understandable to prospective job seekers, prioritizing informative layouts, clear labeling, and comparative functions across industries and time. It should enable non-technical users to engage with the visualizations meaningfully. By making the dashboard easily accessible, it will provide a good reference for prospective graduates or stakeholders trying to understand the trends of industry sectors. 
 
 ### Why This Challenge Matters
 
