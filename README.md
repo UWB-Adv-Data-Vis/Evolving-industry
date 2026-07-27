@@ -1,9 +1,12 @@
 # Evolving-industry: Examining Key Industry Sector Growth and Decline in Washington 
 This data challenge attempts to visualize the growth and decline of key industry sectors in Washington State. Data come from the U.S. Bureau of Labor and Statistics. 
 
-### Team
+# **_Please replace this README with one for your produced dashboard and include a link to the original challenge._**
+
+
+## Team
 -   📊 Challenge created by and made for the BDATA 412 [Advanced Data Visualization](https://github.com/UWB-Adv-Data-Vis) course at the [University of Washington Bothell](https://www.uwb.edu/).
--   ✍️ Authored by [Toby M.](https://github.com/), [Bryan H.](https://github.com/).
+-   ✍️ Challenge Authored by [Toby M.](https://github.com/), [Bryan H.](https://github.com/).
 -   🔍 Challenge review committee: [Toby M.](https://github.com/),
 -   🛠️ Edited and supervised by Prof. [Caleb Trujillo](https://github.com/calebtru).
 
@@ -18,7 +21,7 @@ In this assignment you will demonstrate your ability to:
 *    Describe the rationale, methods, results, and broader social context of your student-led project that used data to answer an interesting question.
 *    Describe and use different types of critical and scientific thinking to develop inquiry into selected projects and critique visualizations.
 
-## Challenge Overview 
+# Challenge Overview 
 
 Our data challenge is to focus in Washington and examine 3 different sectors and their related occupations: Aerospace, Agriculture/manufacturing and Information/Communications technology. Using the datasets provided by the U.S Bureau of Labor, we want to see and visualize the overall growth/decline within these occupations and sectors, based on employment numbers and wages in the past 3 years.
 
@@ -30,14 +33,16 @@ The goal here is to create some awareness for job seekers interested in the indu
 
 This challenge asks teams to turn complex industry data into a clear, easy-to-use dashboard using R Shiny and ggplot2. We intend the dashboards to be accessible and understandable to prospective job seekers, prioritizing informative layouts, clear labeling, and comparative functions across industries and time. It should enable non-technical users to engage with the visualizations meaningfully. By making the dashboard easily accessible, it will provide a good reference for prospective graduates or stakeholders trying to understand the trends of industry sectors. 
 
-### Why This Challenge Matters
+## Why This Challenge Matters
 
 As students who are preparing to enter the workforce, knowing what industries have opportunity and what industries are oversaturated is necessary for future success. In addition, recent technological developments have continually made headlines on the disruptiveness in several industries; by viewing how these sectors have been affected in recent years, we can see how much they’ve either grown or declined from them. In addition, by identifying the growth or decline in the number of available jobs and the growth or decline in wages across different industries we can better determine where to direct our efforts in job searching. 
 
+## What We Hope to Learn
 
-### What We Hope to Learn
-
-We hope to learn, through this project, what industries have the best future prospects for a career. Our claim is that different industries have different career opportunities, and we would like to show a trend over the past three years to demonstrate this difference. We will be letting the data speak for itself rather than weaving a narrative. Our purpose isn't to explain why a given industry is experiencing an upturn or downturn, but to instead make use of that information to make good judgements. With that in mind, there should only be one conclusion to our data rather than multiple interpretations which is to see whether or not a given industry is doing well or poorly for employment opportunities and financial gain.
+We hope to learn, through this project, what industries have the best future prospects for a career. 
+Our claim is that different industries have different career opportunities, and we would like to show a trend over the past three years to demonstrate this difference. 
+We will be letting the data speak for itself rather than weaving a narrative. 
+Our purpose isn't to explain why a given industry is experiencing an upturn or downturn, but to instead make use of that information to make good judgements. With that in mind, there should only be one conclusion to our data rather than multiple interpretations which is to see whether or not a given industry is doing well or poorly for employment opportunities and financial gain.
 
 
 ## Tasks to address for our challenge
@@ -48,28 +53,27 @@ The dashboard _could_ include visuals for the following function:
 - Correlate wages with employee growth/decline over the years.
 - Relate wage and employment for comparing industries across years.
 - Determine consistency, growth and decline with both occupations and sectors.
-- Create a dashboard compiling all plots together.
+- Create a dashboard compiling all plots and summary tables together.
 
 ## Targeted Questions for Visual Analytics
-The dashboard _could_ answer these key questions through visuals:
+The dashboard _could_ help users answer these key questions through visuals:
 
- 1.	What are the entry age groups for different occupations?
- 2.	Peak years for occupations? Peak being defined as salary earned to hours worked
- 3.	Retirement years for occupations?
- 4.	Unemployment by occupation and unemployment?
- 6.	Is gen-z screwed with their employment opportunities in the current job market?
- 7.	Which generation(s) are projected to never retire?
- 8.	How do these changes affect different social identities (e.g. race, ethnicity, gender)?
+ 1.	What is the overall growth or decline of industry?
+ 2.	Which industry sectors show growth or decline?
+ 3.	How are occupations and wages comparing within and across industries?
+ 4.	Are wages and salaries within the industries trending in similar ways?
+ 5.	Where are there employment opportunities in the current job market?
+ 6.	How do these changes affect different social identities (e.g. race, ethnicity, gender)?
+ 7.	Can anomalies be detected?
 
 ## Design Principles:
- - Simplify: Keep it simple but informative: focus on 1-2 strong visualizations per person.
- - Easy: Leverage the use of easy to use tabs and menus to support mobile devices.
- - Clean: Clear labels, details-demand, and notes for more information
- - Coherent: Same color scheme across all panels
+ - Simplify: Keep it simple but informative: focus on 1-2 strong interactive panels per person.
+ - Easy: Leverage the use of easy to use tabs, filters, and menus to support mobile devices.
+ - Clean: Concise and easy to understand labels, details-demand, and notes for more information.
+ - Coherent: An effective color scheme shared across all panels that fits the dashboard theme.
  - Flexible: Works on different screen sizes including desktops, phones, tablets, and laptops.
  - Understandable: Follow ggplot2 best practices
  - **_Please replace this README with one for your produced dashboard and include a link to the original challenge._**
-
 
 # The Data
 ## Background 
@@ -92,13 +96,12 @@ The data source that we will be using is from the U.S. Bureau of Labor Statistic
  - U.S. Bureau of Labor Statistics for OEWS Dataset [Link](https://www.bls.gov/oes/tables.htm)
  - Consider using a R package like blscrapeR, blsAPI, BLSloadR to avoid limitations related to multiple sheets and large data storage.
 
-### Understanding Table Organization :
+### Understanding Table Organization
  - Example Table: Overview of May 2022 occupational employment and wages [2022] [https://www.bls.gov/cps/aa2014/cpsaat11.htm](https://www.bls.gov/oes/2022/may/overview_2022.htm)
  - OEWS documentation [https://www.bls.gov/oes/oes_doc.htm](https://www.bls.gov/oes/oes_doc.htm)
 
 ### Data Accessibility and Quality:
 For data retrieval specifically where the data sources are:
-
 - Occupational Employment and  Wage  Statistics (BEWS) [https://www.bls.gov/oes/tables.htm](https://www.bls.gov/oes/tables.htm)
 - Other sources (Aiding in the objectives of the dashboard, Demographic Data Sources, etc) [https://www.bls.gov/data/apps.htm](https://www.bls.gov/data/apps.htm)
 
