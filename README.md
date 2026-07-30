@@ -146,7 +146,7 @@ Prototyping and
 ## References
 Key Industries. (2024, September 9). Washington State Department of Commerce. [https://www.commerce.wa.gov/key-sectors/](https://www.commerce.wa.gov/key-sectors)
 
-Mattingly, A. (2024, September 25). A Look at Jobs Paying Less Than $15.00 Per Hour. Bureau of Labor Statistics. [https://www.bls.gov/spotlight/2024/a-look-at-jobs-paying-less-than-15-00-per-hour/home.htm]([https://www.bls.gov/spotlight/2024/a-look-at-jobs-paying-less-than-15-00-per-hour/home.htm])
+Mattingly, A. (2024, September 25). A Look at Jobs Paying Less Than $15.00 Per Hour. Bureau of Labor Statistics. [https://www.bls.gov/spotlight/2024/a-look-at-jobs-paying-less-than-15-00-per-hour/home.htm](https://www.bls.gov/spotlight/2024/a-look-at-jobs-paying-less-than-15-00-per-hour/home.htm)
 
 U.S. Bureau of Labor Statistics. (2019, August 26). Occupational Employment and  Wage  Statistics. Bls.Gov. [https://www.bls.gov/oes/tables.htm](https://www.bls.gov/oes/tables.htm)
 
