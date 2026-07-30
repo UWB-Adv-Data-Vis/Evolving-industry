@@ -6,8 +6,8 @@ This data challenge attempts to visualize the growth and decline of key industry
 
 ## Team
 -   📊 Challenge created by and made for the BDATA 412 [Advanced Data Visualization](https://github.com/UWB-Adv-Data-Vis) course at the [University of Washington Bothell](https://www.uwb.edu/).
--   ✍️ Challenge Authored by [Toby M.](https://github.com/), [Bryan H.](https://github.com/).
--   🔍 Challenge review committee: [Toby M.](https://github.com/),
+-   ✍️ Challenge Authored by [Toby M.](https://github.com/tobyam-netizen), [Bryan H.](https://github.com/Brian-Huynh).
+-   🔍 Challenge review committee: [Toby M.](https://github.com/tobyam-netizen), [Talk to others]
 -   🛠️ Edited and supervised by Prof. [Caleb Trujillo](https://github.com/calebtru).
 
 ## Learning Objectives
